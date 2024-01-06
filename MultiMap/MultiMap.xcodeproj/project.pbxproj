@@ -11,6 +11,7 @@
 		410B18922B48E42000D63483 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 410B18912B48E42000D63483 /* ContentView.swift */; };
 		410B18942B48E42200D63483 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 410B18932B48E42200D63483 /* Assets.xcassets */; };
 		410B18972B48E42200D63483 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 410B18962B48E42200D63483 /* Preview Assets.xcassets */; };
+		4156CD022B4A133C00EE05EB /*  Location.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4156CD012B4A133C00EE05EB /*  Location.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		410B18932B48E42200D63483 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		410B18962B48E42200D63483 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		410B18982B48E42200D63483 /* MultiMap.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = MultiMap.entitlements; sourceTree = "<group>"; };
+		4156CD012B4A133C00EE05EB /*  Location.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = " Location.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				410B188F2B48E42000D63483 /* MultiMapApp.swift */,
 				410B18912B48E42000D63483 /* ContentView.swift */,
+				4156CD012B4A133C00EE05EB /*  Location.swift */,
 				410B18932B48E42200D63483 /* Assets.xcassets */,
 				410B18982B48E42200D63483 /* MultiMap.entitlements */,
 				410B18952B48E42200D63483 /* Preview Content */,
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				410B18922B48E42000D63483 /* ContentView.swift in Sources */,
+				4156CD022B4A133C00EE05EB /*  Location.swift in Sources */,
 				410B18902B48E42000D63483 /* MultiMapApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
